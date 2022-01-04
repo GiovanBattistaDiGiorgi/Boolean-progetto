@@ -1,0 +1,97 @@
+body{background-image: url(background.jpg);
+background-size: cover;
+}
+
+*{
+    box-sizing: border-box;
+
+    
+}
+
+div h2{
+    color: white;
+}
+div{
+    color: white;
+}
+
+.logo{
+    width: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 55px;
+}
+
+.titolo{
+    color: #13cc13;
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+nav{
+  
+    text-align: center;
+    background-color: #13cc13;
+    color: black;
+    padding: 12px;
+    width: 80%;
+    height: 50%;
+    margin: auto;
+    
+}
+
+.contenitore{
+    background-color: rgba(20, 10, 10, 60%);
+    border-radius: 19px;
+    width: 1200px;
+    height: 820px;
+    margin-top: 25px;
+    margin-left: auto;
+    margin-right: auto;
+ 
+}
+
+
+main{
+    
+    width: 80%;
+    height: 80%;
+    margin: auto;
+    font-family: sans-serif;
+  
+}
+
+
+.testobarra{
+    
+    font-size: large;
+}
+
+.barra1{
+    background-color: orange;
+    width: 350px;
+    height: 30px;
+    border-radius: 7px;
+
+}
+.barra2{
+    background-color:blue;
+    width: 750px;
+    height: 30px;
+    border-radius: 7px;
+
+    
+}
+.barra3{
+    background-color:tomato;
+    width: 250px;
+    height: 30px;
+    border-radius: 7px;
+
+}
+
+
+
+    
